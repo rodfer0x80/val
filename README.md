@@ -1,6 +1,6 @@
 # val
 > 2D PySDL Platform Game
 
-## Installation
+## Install
 
 ## Documentation
